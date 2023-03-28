@@ -95,7 +95,7 @@ The built in EventListener util of Java acts as our observer. It is a built in a
 # Diagrams
 
 Behind the scenes diagram
-![Observer Pattern](https://github.com/MathewBravo/spring_framework_analysis/blob/main/ObserverPattern.png)
+![Observer Pattern](https://github.com/MathewBravo/spring_framework_analysis/blob/main/ObserverPatternFix.png)
 
 How Autowiring works
 ![PubSub](https://github.com/MathewBravo/spring_framework_analysis/blob/main/Autowired.png)
