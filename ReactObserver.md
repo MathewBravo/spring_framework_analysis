@@ -92,6 +92,15 @@ The built in EventListener util of Java acts as our observer. It is a built in a
     public void handleNewUserEvent(final NewUserEvent newUserEvent) {
 ```
 
+# Diagrams
+
+Behind the scenes diagram
+![Observer Pattern](https://github.com/MathewBravo/spring_framework_analysis/blob/main/ObserverPattern.png)
+
+How Autowiring works
+![PubSub](https://github.com/MathewBravo/spring_framework_analysis/blob/main/Autowired.png)
+
+
 ## Source Code Behind It.
 
 ```java
